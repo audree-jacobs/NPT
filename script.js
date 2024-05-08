@@ -77,7 +77,7 @@ function myotone() {
 }
 
 function muzik() {
-    window.open('https://fr.shop.lululemon.com/story/mirror-home-gym', '_blank');
+    window.open('https://www.amazon.com/MUZIK-Connect-Smarter-Headphone-Black/dp/B01K3L72G0?th=1', '_blank');
 }
 
 function woojer() {
